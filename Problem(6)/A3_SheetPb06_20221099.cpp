@@ -1,3 +1,10 @@
+// File name:A3_SheetPb06_20221099
+// Purpose:Game_of_life_Simulator
+// Author(s): Abdulrahaman Mohammed
+// ID(s): 20221099
+// Section:S5
+// Date:7/12/2023
+
 #include <bits/stdc++.h>
 #include <windows.h>
 using namespace std;

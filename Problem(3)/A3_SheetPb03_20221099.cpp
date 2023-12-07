@@ -1,3 +1,10 @@
+
+// File name:A3_SheetPb03_20221099
+// Purpose:Freq_table for the number of words in a file.
+// Author(s):Abdulrahman Mohammed         
+// ID(s):20221099
+// Section:S5
+// Date:5/12/2023
 #include <bits/stdc++.h>
 using namespace std;
 //Returns True if it is a punc excluding the '-'
